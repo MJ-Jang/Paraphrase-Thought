@@ -1,4 +1,4 @@
-from aa.Pthougt_encode import Pthought_vec
+from code.Pthougt_encode import Pthought_vec
 import tensorflow as tf
 import numpy as np
 import pandas as pd
