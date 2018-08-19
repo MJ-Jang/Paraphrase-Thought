@@ -1,5 +1,5 @@
-from aa.Pthougt_encode import Pthought_vec
-from aa.STS_function import *
+from code.Pthougt_encode import Pthought_vec
+from code.STS_function import *
 import tensorflow as tf
 import numpy as np
 import pandas as pd
