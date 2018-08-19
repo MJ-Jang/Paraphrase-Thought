@@ -3,8 +3,8 @@ import numpy as np
 import gensim
 import os
 import time
-from aa import helper as hp
-from aa.utils import *
+from code import helper as hp
+from code.utils import *
 
 
 class Pthought_vec:
